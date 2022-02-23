@@ -12,4 +12,5 @@ object Data {
        }
         return field
     }
+    var choose = ""
 }

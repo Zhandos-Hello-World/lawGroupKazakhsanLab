@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/drawable/shape.xml" value="0.23" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/activity_age_distribution.xml" value="0.2234375" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/activity_show_date.xml" value="0.2" />
         <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/activity_value_show.xml" value="0.176" />
         <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/card_view.xml" value="0.1" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/content_show_date.xml" value="0.2234375" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/fade_red.xml" value="0.2234375" />
         <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/value_show_activity.xml" value="0.2234375" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/layout/view_card.xml" value="0.2234375" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/menu/bar.xml" value="0.2234375" />
+        <entry key="..\:/Users/Zhandos/AndroidStudioProjects/LawGroupKZ/app/src/main/res/xml/shape.xml" value="0.2234375" />
       </map>
     </option>
   </component>

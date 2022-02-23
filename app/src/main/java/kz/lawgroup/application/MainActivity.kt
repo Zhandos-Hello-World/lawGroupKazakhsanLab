@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         progressBar = findViewById(R.id.SHOW_PROGRESS)
         listView = findViewById(R.id.list_view)
 
-        if(Data.getMap.isEmpty()) {
+        if(Data.map.isEmpty()) {
             getDataFrom()
         }
         else {
@@ -45,7 +45,6 @@ class MainActivity : AppCompatActivity() {
                         for (j in 1 until internalValue.length()) {
                             temp.add(internalValue.getString(j))
                         }
-
                         Data.map[internalValue.getString(0)] = temp
                     }
                     installValueToList()
@@ -62,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             android.R.id.text1, Data.getMap.keys.toMutableList())
         listView.setOnItemClickListener { parent, view, position, id ->
             val intent = Intent(this, ShowActivity::class.java)
-            intent.putExtra("id", view.findViewById<TextView>(android.R.id.text1).text.toString())
+            Data.choose = view.findViewById<TextView>(android.R.id.text1).text.toString()
             startActivity(intent)
         }
     }
